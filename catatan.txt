@@ -1,2 +1,12 @@
 membuat repo di git bash "git init"
-
+membuat file apa aja
+lakukan add "git add . / git add nama_file"
+lakukan commit "git commit -m "keterangan commit" kalau modifikasi file pake -am"
+lihat status commit "git status"
+lihat history commit "git log"
+mau kembali ke situasi commit dulu "git checkout 5 digit nama_file"
+buat branch "git branch nama_branch"
+lihat branch apa aja "git branch"
+mau pindah branch "git checkout nama_branch"
+menggabungkan perubahan pada branch master, masuk dulu ke master kemudian "git merge nama_branch"
+setelah itu kembali ke langkah 3 dan 4
