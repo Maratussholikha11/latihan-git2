@@ -1,1 +1,0 @@
-membuat repo di git bash "git init"
